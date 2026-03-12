@@ -112,10 +112,10 @@ while True:
     print("Server:", reply)
 client_socket.close()
 ```
-OUTPUT:
-<img width="1014" height="367" alt="Screenshot 2026-02-01 131049" src="https://github.com/user-attachments/assets/7e5d98d5-b989-4441-9c75-d10de0926f74" />
+## OUTPUT:
 
-<img width="943" height="355" alt="Screenshot 2026-02-01 131111" src="https://github.com/user-attachments/assets/2e5cd022-e7a5-4ade-be3f-99474840ae4c" />
+![alt text](<Screenshot 2026-03-12 113455.png>)
+![alt text](<Screenshot 2026-03-12 113627.png>)
 
 
 
